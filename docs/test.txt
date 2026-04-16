@@ -1,0 +1,2 @@
+<!-- vim: syntax=Markdown -->
+# This is a test
